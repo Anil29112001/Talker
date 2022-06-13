@@ -33,6 +33,7 @@ This is a simple program which can be moved anywhere on desktop. This applicatio
 # Azure technology used:
 1) Visual studio code
 2) Storage accounts
+3) Static website
 # Project URL:
 https://talkerfrt.z13.web.core.windows.net/
 
