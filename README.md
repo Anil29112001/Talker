@@ -18,5 +18,6 @@ Talker is a “text-to-speech” web application which converts text into natura
 1) Visual studio code
 2) Storage accounts
 # Project URL:
+https://talkerfrt.z13.web.core.windows.net/
 
 # Project demo link:
