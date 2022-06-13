@@ -1,4 +1,5 @@
-# Future Ready Talent Project (Talker)
+# Future Ready Talent Project
+# Project title: Talker: text-to-speech-converter
 # Industry Name: Ed-Tech
 # Problem Statement: 
 The world health organization estimates around 285 million visually impaired people in the world, out of which 39 million are blind so these peoples are not able to read text. Language barrier is one of the biggest issue which can be seen across borders and due to this issue people are not able to learn new languages. Many children have a hard time focusing and are easily distracted by long passages and words. Also there are many children in schools having some sort of disabilities. Many people are poor in language and they don’t know correct pronunciation of specific words. So to overcome these issues there is the need of "Text-to-Speech" application which converts text into natural-sounding audio.
