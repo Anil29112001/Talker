@@ -14,3 +14,9 @@ Talker is a “text-to-speech” web application which converts text into natura
 3) Helps kids to read
 4) It offers high linguistic accuracy to read out correctly.
 5) It avoids eyestrain from too much reading.
+# Azure technology used:
+1) Visual studio code
+2) Storage accounts
+# Project URL:
+
+# Project demo link:
