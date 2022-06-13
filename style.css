@@ -1,0 +1,250 @@
+body
+{
+    margin: 0;
+}
+
+.bg_img1 img
+{
+    position: relative;
+    background-size: cover;
+    height:644.4px;
+    width: 1343.4px;
+
+}
+
+.wel
+{
+    left: 458px;
+    top: 0px;
+    position: absolute;
+    
+}
+
+.container
+{
+    height: 400px;
+    width: 800px;
+    border-radius: 13px;
+    padding-top: 20px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    top: 135px;
+    left: 285px;
+    position: absolute;
+}
+
+.container h3
+{
+    color: red;
+    font-size: 22px;
+}
+
+#pls
+{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.txtInput textarea
+{
+    top: 50px;
+    resize: none;
+    position: absolute;
+}
+
+.txtInput
+{
+    padding-left: 208px;
+    top: 40px;
+    position: absolute;
+}
+
+
+.list
+{
+    position: absolute;
+    top: 246px;
+    left: 0px;
+}
+
+
+
+.label
+{
+    position: absolute;
+    left: 210px;
+    width: 300px;
+}
+
+.label
+{
+    color: red;
+    font-size: 22px;
+}
+
+.selt
+{
+    padding-top: 35px;
+    padding-left: 210px;
+    position: absolute;
+}
+
+.speak
+{
+    top:479px;
+    left:447px;
+    position: absolute;
+}
+
+.speak button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #961313;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 130px;
+    cursor: pointer;
+
+}
+
+.speak button:hover
+{
+    background-color: #f80606;
+}
+
+
+.pause
+{
+    top:479px;
+    left: 625px;
+    position: absolute;
+}
+
+.pause button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #a70f79;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 100px;
+    cursor: pointer;
+    
+
+}
+
+.pause button:hover
+{
+    background-color: #ff00d4;
+}
+
+.resume
+{
+    top:479px;
+    left: 803px;
+    position: absolute;
+}
+
+.resume button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #24c50f;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 100px;
+    cursor: pointer;
+    color: black;
+
+}
+
+.resume button:hover
+{
+    background-color: #33ff00;
+}
+
+.bottom_nav
+{
+    width: 1338.4px;
+    padding-top: 150px;
+    background-color: rgb(16, 17, 17);
+    border: 2px solid black;
+    top: 640px;
+    position: absolute;
+    padding-left: 1.1px;
+}
+
+.follow
+{
+    padding-left:385px;
+    top: 9.4px;
+    position: absolute;
+}
+
+.fa 
+{  
+    padding: 7px;  
+    text-align: center;  
+    margin: 35px 28px;  
+    font-size: 10px;  
+    width: 20px; 
+    border-radius: 10px; 
+} 
+
+
+.fa-instagram 
+{  
+    background: #a13674;  
+    color: white;  
+    position: absolute;
+    left: 370px;
+    top: 50px;
+    
+}   
+ 
+  .fa-linkedin {  
+    background: #007bb5;  
+    color: white; 
+    position: absolute;
+    left: 470px;
+    top: 50px; 
+  }  
+
+
+.my_create
+{
+    position: absolute;
+    top: 0px;
+    left: 795px;
+}
+
+.contact_me
+{
+    position: absolute;
+    top: 77.2px;
+    width: 300px;
+}
+
+.my_create h3,h4
+{
+    color: white;
+}
+
+.follow h3
+{
+    color: white;
+}
