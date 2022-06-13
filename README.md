@@ -4,14 +4,14 @@ Language barrier is one of the biggest issue which can be seen across borders an
 # Project Description:
 Talker is a “text-to-speech” web application which converts text into natural-sounding audio. It enables the user to copy text into textbox and converts it into natural sounding audio. The output audio is natural and clear so user can hear it clearly. It mainly focuses at conversion of written text to speech in any given language. The application is available in multi-language form. It has pause button to pause the audio and resume button to resume the audio from where the user has stopped. It is a responsive and multi language supported web application.
 # Steps to use:
-1) Open the project link given below
-2) Enter the text in textbox provided
-3) Click on speak button
+1) Open the project link given below.
+2) Enter the text in textbox provided.
+3) Click on speak button.
 4) You can use pause button to pause reading text and resume button to resume reading text.
 # Advantages:
 1) You can choose any one of the language to convert your text into speech.
-2) Reads Multiple Languages
-3) Helps kids to read
+2) Reads Multiple Languages.
+3) Helps kids to read.
 4) It offers high linguistic accuracy to read out correctly.
 5) It avoids eyestrain from too much reading.
 # Azure technology used:
